@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+background-color:rgba(0, 139, 35, 0.781);
+padding: 30px;
+border: rgb(255, 235, 147) solid 3px;
+border-radius: 15px;
+border-style: dashed;
+}
+
+img{
+    width: 1200px;
+    height: 700px;
+}
