@@ -1,13 +1,14 @@
-h1{
+.menu ul{
     text-align: center;
-background-color:rgba(0, 139, 35, 0.781);
-padding: 30px;
-border: rgb(255, 235, 147) solid 3px;
-border-radius: 15px;
-border-style: dashed;
+    display: inline-flex;
+    margin-left: 30%;
+    list-style: none;
 }
 
-img{
-    width: 1200px;
-    height: 700px;
+.menu li{
+    width: 1000px;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 5px;
 }
