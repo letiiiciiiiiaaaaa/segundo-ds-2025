@@ -1,23 +1,23 @@
 html{
-    background-color: blanchedalmond;
+        background-color: blanchedalmond;
 }
 
 .titulo h1{
     
-        background-color: chocolate;
-        text-align: center;
-        border-radius: 15px;
-        padding-top: 15px;
-        padding-bottom: 10px;
+    background-color: chocolate;
+    text-align: center;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    color: rgb(255, 255, 255);
 }
 
 .caracteristicas h2{
-        text-align: center;
+    text-align: center;
     }
 .caracteristicas p{
-        text-align: center;
-        color: burlywood;
-        font-weight: bold;
+    text-align: center;
+    font-weight: bold;
 
     }
  
@@ -28,33 +28,52 @@ html{
 
 hr{
     border: 2px solid;
-    border-color: brown;
+    border-color: rgb(158, 72, 10);
 }
 .ingredientes h3{
-        text-align: center;
-        font-size: 26px;
-         color: chocolate;
+    text-align: center;
+    font-size: 26px;
+    color: rgb(192, 70, 48);
     }
 .ingredientes h4{
     text-align: center;
     font-size: 22px;
+    color: rgb(59, 59, 59);
 }
 .ingredientes ul{
-        margin-left: 35%;
-        font-weight: bold;
+    margin-left: 35%;
+    font-weight: bold;
     }
 
 .modoPreparo h3{
-        text-align: center;
-        font-size: 26px;
+    text-align: center;
+    font-size: 26px;
+    color: chocolate;
     }
 .modoPreparo h4{
     text-align: center;
     font-size: 22px;
+    color: rgb(59, 59, 59);
 }
 
 .modoPreparo ol{
-        margin-left: 15%;
-        font-weight: bold;
+    margin-left: 15%;
+    font-weight: bold;
     }
+
+.Montagem h3{
+    text-align: center;
+    font-size: 26px;
+    color: rgb(182, 117, 52);
+}
+
+.Montagem ol{
+    margin-left: 15%;
+    font-weight: bold;
+}
+
+.link{
+    margin-left: 35%;
+    color: rgb(126, 99, 83);
+}
 
