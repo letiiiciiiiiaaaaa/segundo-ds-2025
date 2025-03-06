@@ -1,5 +1,5 @@
 html{
-    background-color: rgb(235, 215, 187);
+    background-color: rgb(235, 193, 187);
 }
 
 .titulo h1{
@@ -49,4 +49,14 @@ color: rgb(134, 18, 18);
 .modoPreparo ol{
 margin-left: 15%;
 font-weight: bold;
+}
+
+.link{
+    margin-left: 23%;
+    color: rgb(170, 81, 81);
+}
+
+a img{
+    width: 300px;
+    margin-left: 430px;
 }
